@@ -21,6 +21,7 @@ nav {
 
 footer {
   background-color: #4d4865;
+  color: white;
 }
 
 a:link {color: orange;}       /*coloring links*/
