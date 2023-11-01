@@ -52,7 +52,9 @@ h3, p, ol, h2, main {
   font-family: monospace, Arial, sans-serif;
 }
 
-
+ul, ol {
+  display: inline-block;
+}
 
 
 
